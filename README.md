@@ -1,5 +1,5 @@
 # Sales-Dashboard
-This project is a simple dynamic dashboard that is used for an analysis of the Sales of different type of cars/vehicles from 2003-2005.
+This project is a dynamic dashboard designed to analyze sales performance across different types of vehicles from 2003 to 2005. It enables users to explore trends, compare categories, and gain insights into overall sales patterns.
 ## Skills used
 - Data cleaning using Power Pivot
 - Formulas (If function, Text/data function)
