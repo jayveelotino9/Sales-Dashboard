@@ -12,7 +12,8 @@ This project is a dynamic dashboard designed to analyze sales performance across
 - Illustrations 
 
 
-<img width="944" height="334" alt="image" src="https://github.com/user-attachments/assets/888b6d98-63b5-4538-a52c-b959482986e8" />
+<img width="939" height="334" alt="image" src="https://github.com/user-attachments/assets/e30ad2a1-62d8-49dd-aa3e-e5696c5d234c" />
+
 
 ## There are 4 parts of the excel file
 - First is for the dynamic dashboard itself where you can see the summaries which you can filter out the year and type of products through slicers
